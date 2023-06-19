@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: cd8d1c4f-a82f-41f0-ad8a-9f2a931500a2
+name: 'Local Employee Management Portal'
+mail: ghosh.ishan.27@gmail.com
+slogan: ''
+page:
+  403: /node/53
+  404: /node/52
+  front: /homepage
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
